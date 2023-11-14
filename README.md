@@ -1,3 +1,7 @@
+# fork from uniswap v3
+For personally learning uniswap v3 code source code, adding some Chinese comment to help learning and understanding.
+
+个人整理和添加了一些中文代码注释，方便学习和理解。
 # Uniswap V3
 
 [![Lint](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml)
